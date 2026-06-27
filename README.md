@@ -229,10 +229,10 @@ This project was built with responsible AI principles at every stage:
 
 ## 👤 Author
 
-**[Your Name]**  
-Internship Project — Machine Learning & Healthcare AI  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**[Prasun Kumar]**  
+Internship Project — Data Analytics Internship  
+📧 prasunk810@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prasun-kumar-kp2813/) | [GitHub](https://github.com/Prasun-13)
 
 ---
 
