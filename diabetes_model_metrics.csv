@@ -1,0 +1,5 @@
+Model,CV AUC,Accuracy,Recall,ROC-AUC,F1-Score,Best?
+Logistic Regression,0.9634,0.8841,0.8659,0.9572,0.5594,
+Random Forest,0.9845,0.9103,0.8559,0.9693,0.6188,
+XGBoost,0.9951,0.965,0.7418,0.9768,0.7827,YES
+Naive Bayes,0.9322,0.8712,0.8582,0.9423,0.5311,
